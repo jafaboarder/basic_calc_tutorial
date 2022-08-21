@@ -63,7 +63,7 @@ Now you can run this macro as we did in the previous example, which will make th
 
 This code is a bit more complex that the previous one (that's why I left this as the second example!). Basically it creates two `Object` variables, one to store the current sheet and one to refer to cell *A1*. Then we use the method `setString()` to add the string "Hello World" into the cell.
 
-Do not worry too much if you did not understand all this code. LibreOffice API is a bit complex at first, buth with time you'll get the hang of it. In future topics I'll discuss in more detail how to declare variables and read/write data from/to sheets and cells.
+Do not worry too much if you did not understand all this code. LibreOffice API is a bit complex at first, but with time you'll get the hang of it. In future topics I'll discuss in more detail how to declare variables and read/write data from/to sheets and cells.
 
 ## A line-by-line explanation
 
